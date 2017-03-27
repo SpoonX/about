@@ -183,10 +183,10 @@ The subject contains a succinct description of the change:
 * Don't capitalize the first letter.
 * Do not add a dot (.) at the end.
 
-###Body
+### Body
 
 The body should include the motivation for the change and contrast this with previous behavior.
 
-###Footer
+### Footer
 
 The footer should contain any information about **Breaking Changes** and is also the place to reference GitHub issues that this commit **Closes**.
